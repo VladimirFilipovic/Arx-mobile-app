@@ -1,0 +1,7 @@
+UI- kada kucas password da izbacuje u tom trenutku da li je ok sifra
+UI- dark theme support
+LOGINANDREGISTER- login,register usin other sites
+LOGINANDREGISTER- login user finger scaner?
+LOGINANDREGISTER- email verification?
+!LOGINANDREGISTER- kada unese pogresne kredentientals da mu izbaci labele forgot passworc
+!REGISTER- ulepsati da ne bude tako button samo

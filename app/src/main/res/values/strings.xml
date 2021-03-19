@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arx</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">lJBZfhaZXszMQDrobqfnfiDrWEAUGWtrD47Q3pdF</string>
+    <string name="back4app_client_key">6ZbvClKAI9NH9xZPWCefOZFeuHZAkKshv9CxlB1H</string>
+</resources>
